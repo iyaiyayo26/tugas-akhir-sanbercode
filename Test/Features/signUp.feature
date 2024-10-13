@@ -1,3 +1,4 @@
+@Signup
 Feature: Sign up Kasir Aja Feature
 
     Scenario: Sign up successfully with valid credentials
